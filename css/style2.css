@@ -1,0 +1,109 @@
+body {
+	background-image: url('../images/bg.jpg');
+	background-repeat: repeat;
+	background-position: top-center;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+header {
+	background-color: black;
+	height: 70px;
+	width: auto;
+	padding: 20px;
+}
+
+nav {
+	height: 20px;
+	width: 300px;
+	padding: 20px;
+	margin-top: 20px;
+	text-align: right;
+	float: right;
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+	margin: 0;
+	padding: 0;
+	font-family: Tw Cen MT;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+	color: #04a7e0;
+}
+
+p {
+	color: white;
+}
+
+footer {
+	height: 60px;
+	width: auto;
+	background-color: black;
+	padding: 10px;
+}
+
+#gap {
+	height: 690px;
+	padding: 30px;
+}
+
+#gap2 {
+	height: 630px;
+    padding: 30px 0 0 30px;
+	background-color: #e6e6e6;
+	width: auto;
+}
+
+#gap2 img {
+	float: right;
+	margin: 0;
+	margin-top: 30px;
+}
+
+article {
+	float: left;
+	width: 600px;
+}
+
+article p {
+	color: black;
+	font-size: 120%;
+}
+
+aside {
+	
+}
+
+#contact {
+	height: 50px;
+	width: 400px;
+	float: left;
+	margin-left: 10px;
+}
+
+#quote {
+	height: 50px;
+	width: 500px;
+	float: right;
+	text-align: right;
+	margin-right: 10px;
+}
+
+#gap h1, #gap2 h1 {
+	margin-bottom: 20px;
+	color: #04a7e0;
+	font-size: 300%;
+}
+
+#image {
+	background-color: black;
+	height: 400px;
+	width: 250px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	float: left;
+
+}

@@ -1,0 +1,136 @@
+body {
+	background-image: url('../images/backdrop.jpg');
+	background-repeat: repeat;
+	background-position: top-center;
+	background-attachment: fixed;
+	margin: 0;
+}
+
+#greybg {
+	background-color: #e6e6e6;
+	height: 100vh;
+}
+
+nav {
+	background-color: black;
+	height: 24px;
+	width: auto;
+	padding: 20px;
+	text-align: right;
+	float: right;
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+	margin: 0;
+	padding: 0;
+	font-family: Tw Cen MT;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+	color: #04a7e0;
+}
+
+p {
+	color: white;
+}
+
+footer {
+	height: 60px;
+	width: 100%;
+	background-color: black;
+	padding: 10px;
+	position: fixed;
+	bottom: 0px;
+}
+
+aside {
+	
+	width: 100%;
+	
+	padding: 0px;
+	position: fixed;
+	bottom: 0px;
+}
+
+img{
+	margin-bottom: -5px;
+}
+
+#gap2{
+	background-color: #e6e6e6;
+}
+
+#contact {
+	height: 50px;
+	width: 400px;
+	float: left;
+	margin-left: 10px;
+}
+
+#quote {
+	height: 50px;
+	width: 500px;
+	float: right;
+	text-align: right;
+	margin-right: 30px;
+}
+
+header image {
+	float: left;
+}
+
+header {
+	background-color: black;
+	height: 75px;
+	width: auto;
+}
+
+article {
+	float: left;
+	width: 800px;
+
+	background-color: #e6e6e6;
+}
+
+article p {
+	color: black;
+	font-size: 120%;
+}
+
+aside, aside img {
+	float: right;
+}
+
+#gap2 {
+	height: 630px;
+    padding: 30px 0 0 30px;
+
+	width: auto;
+}
+
+#image {
+	background-color: black;
+	height: 400px;
+	width: 250px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	float: left;
+
+}
+
+#gap h1, #gap2 h1 {
+	margin-bottom: 20px;
+	color: #04a7e0;
+	font-size: 300%;
+}
+
+#gap {
+	height: 690px;
+	padding: 30px;
+}
+
+#gallerybg {
+	background-image: url('../images/bg.jpg')
+}
